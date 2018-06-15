@@ -1,0 +1,2 @@
+# FunctionalCollectionView
+A functional UICollectionView
